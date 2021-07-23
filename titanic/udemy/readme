@@ -1,0 +1,5 @@
+In this project I learned to hadle missing/null values,
+combining features , creation of new features, creation of dummies for categorical variables;
+label encoidng for ordinal, discrete data; 
+Scaling data through Standardisation and Normalisation; 
+metrics for evaluation.
