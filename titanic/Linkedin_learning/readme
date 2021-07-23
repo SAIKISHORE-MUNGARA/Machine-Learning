@@ -1,0 +1,5 @@
+This is additon to udemy titanic project.
+Here I learned to use statistical significance(t-statistic, P-Value) of features with label(Survived) from scipy,
+Box Cox transformation to tranform Fare date to normal distribution,
+cross validation and parameter tuning on random forest classification model,
+And visulising feature Importance through Rf feature importance parameter.
